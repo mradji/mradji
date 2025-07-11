@@ -1,7 +1,7 @@
 # 🛡️ Mafous RADJI – Cybersecurity Projects
 
 **Cybersecurity Professional | SOC Analyst**  
-🔗 [LinkedIn](#) | 📫 mafous.radji@email.com  
+🔗 [LinkedIn](#) | 📫 mafousrcg1@email.com  
 
 ---
 
