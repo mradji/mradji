@@ -33,6 +33,33 @@
 - Quarantined compromised endpoint
 - Developed reusable KQL queries for continuous monitoring
 
+## 🧰 Tools
+
+### 🔐 Security Operations & Threat Detection
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-purple?style=for-the-badge)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-purple?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-blue?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-black?style=for-the-badge)
+
+### 🧠 SIEM & Detection Engineering
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-blue?style=for-the-badge&logo=microsoft)
+![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-purple?style=for-the-badge)
+![KQL](https://img.shields.io/badge/KQL%20Rule%20Creation-indigo?style=for-the-badge)
+![Alert Tuning](https://img.shields.io/badge/Alert%20Tuning%20%26%20Validation-indigo?style=for-the-badge)
+
+### 🚨 Incident Response
+![IR Playbooks](https://img.shields.io/badge/IR%20Playbooks-darkgreen?style=for-the-badge)
+![Timeline Analysis](https://img.shields.io/badge/Timeline%20Analysis-darkgreen?style=for-the-badge)
+![Containment](https://img.shields.io/badge/Containment%20%26%20Remediation-darkgreen?style=for-the-badge)
+### 💻 Endpoint
+![Defender](https://img.shields.io/badge/Microsoft%20Defender-blue?style=for-the-badge&logo=microsoft)
+![Endpoint Telemetry](https://img.shields.io/badge/Endpoint%20Telemetry-gray?style=for-the-badge)
+![Process Analysis](https://img.shields.io/badge/Process%20%26%20File%20Analysis-gray?style=for-the-badge)
+
+### 🛡 Vulnerability Management
+![Tenable](https://img.shields.io/badge/Tenable-navy?style=for-the-badge)
+
+
 ---
 
 ## 🛠️ SOC Analyst & Security Projects
