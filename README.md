@@ -144,7 +144,6 @@ Each folder contains:
 ## 📜 Certifications
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.comptia.org/certifications/security)  
-[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)](https://www.comptia.org/certifications/network)  
 [![Certified Data Engineer – Associate (AWS)](https://img.shields.io/badge/AWS-Certified_Data_Engineer_Associate-orange)](https://aws.amazon.com/certification/certified-data-engineer-associate/)  
 [![IT Automation with Python (Google)](https://img.shields.io/badge/Google-IT_Automation_with_Python-blue)](https://www.coursera.org/professional-certificates/google-it-automation)  
 [![Google Cloud Certified: Data Cloud Engineering](https://img.shields.io/badge/Google_Cloud-Data_Cloud_Engineer-blueviolet)](https://cloud.google.com/certification/data-cloud-engineer)
